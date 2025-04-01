@@ -10,7 +10,6 @@ I'm a student at 42 school (Paris) 🕺🏽
 
 ### 📫 How to reach me michelot.alexy78@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyM0&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyM0&layout=compact&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexyM0&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexyM0&show_icons=true&theme=tokyonight)
 
