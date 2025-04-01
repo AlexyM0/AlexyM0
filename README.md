@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Alexy
-
-I'm a student at 42 school (Paris) 🕺🏽
+<h1 align="center">Hi there 👋, I'm Alexy</h1>
+<h3 align="center">I'm a student at 42 school (Paris) 🕺🏽</h3>
 
 **I love working with C, C++ **
 
