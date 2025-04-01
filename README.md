@@ -2,7 +2,7 @@
 
 I'm a student at 42 school (Paris) 🕺🏽
 
-**I love working with**
+**I love working with C, C++ **
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -22,7 +22,7 @@ I'm a student at 42 school (Paris) 🕺🏽
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 📫 How to reach me 
+### 📫 How to reach me michelot.alexy78@gmail.com
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
