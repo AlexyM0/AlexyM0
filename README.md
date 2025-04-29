@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Alexy</h1>
 <h3 align="center">I'm a student at 42 school (Paris) 🕺🏽</h3>
 
-**I love C, C++ **
+**Doing C, C++ **
 
 
 ### 🔭 I’m working on 42 common core
